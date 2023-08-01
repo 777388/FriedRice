@@ -1,7 +1,7 @@
 # FriedRice
 Sugar and Spice
 
-!!!THIS IS FOR KEEPING YOUR OWN PATHWAYS, WHERE THE NSA DECIDED COST > QUICKNESS IN WHAT PATHWAYS YOU TAKE THROUGH THE INTERNET!!!
+!!!THIS IS FOR KEEPING YOUR OWN PATHWAYS, WHERE THE NSA DECIDED (COST > QUICKNESS) IN WHAT PATHWAYS YOU TAKE THROUGH THE INTERNET!!!
 
 Usage: python3 FriedRice.py cia.gov [or any other domain for that mattter, but the intelligence centralizes there]
 

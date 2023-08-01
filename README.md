@@ -7,7 +7,7 @@ Usage: python3 FriedRice.py cia.gov [or any other domain for that mattter, but t
 
 First be sure to download dependencies, you'll need GOLANG https://go.dev/dl/, as well as www.github.com/lc/gau
 
-sudo apt install hellfire dnsutils
+sudo apt install hellfire dnsutils blessed
 
 Next I want you to create a rootservers.txt File, do not copy rootserver ips from other people as each is designated their own rootservers which contain virtual servers, just put in your home address
 

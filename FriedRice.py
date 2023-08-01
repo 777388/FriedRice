@@ -1,6 +1,8 @@
 import sys
 import os
 import re
+from blessed import Terminal
+print(Terminal().center("You got it"))
 target = sys.argv[1] 
 i = 0
 with open('rootservers.txt', 'r+') as file:

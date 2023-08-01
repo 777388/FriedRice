@@ -5,7 +5,7 @@ Sugar and Spice
 
 Usage: python3 FriedRice.py cia.gov [or any other domain for that mattter, but the intelligence centralizes there]
 
-First be sure to download dependencies, you'll need GOLANG, as well as www.github.com/lc/gau
+First be sure to download dependencies, you'll need GOLANG https://go.dev/dl/, as well as www.github.com/lc/gau
 
 sudo apt install hellfire dnsutils
 

@@ -1,5 +1,5 @@
 # FriedRice
-Sugar and Spice (will run indefinitely, saving url files in the folder, stop whenever or wherever you may.
+Sugar and Spice (will run indefinitely, saving url files in the folder, stop whenever or wherever you may.)
 
 !!!THIS IS FOR KEEPING YOUR OWN PATHWAYS, WHERE THE NSA DECIDED (COST > QUICKNESS) IN WHAT PATHWAYS YOU TAKE THROUGH THE INTERNET!!!
 

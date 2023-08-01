@@ -1,7 +1,9 @@
 # FriedRice
 Sugar and Spice
 
-Usage: python3 FriedRice.py cia.gov
+!!!THIS IS FOR KEEPING YOUR OWN PATHWAYS, WHERE THE NSA DECIDED COST > QUICKNESS IN WHAT PATHWAYS YOU TAKE THROUGH THE INTERNET!!!
+
+Usage: python3 FriedRice.py cia.gov [or any other domain for that mattter, but the intelligence centralizes there]
 
 First be sure to download dependencies, you'll need GOLANG, as well as www.github.com/lc/gau
 
